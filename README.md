@@ -1,2 +1,2 @@
-# Game.github.io
+# http://game.github.io
 Rock paper Scissors
